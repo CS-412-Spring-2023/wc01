@@ -1,27 +1,27 @@
 # Weekly Challenge 01: Comparison
-# CS/MATH 412 Algorithms: Design & Analysis, Spring 2023
+# CS 412 Algorithms: Design and Analysis, Spring 2023
 ***
 
 Weekly challenges (WC) invite you to critically engage with the topics covered up to that week. They may take on a variety of formats and be available and attempted through diverse platforms as the semester progresses. They may be attempted individually or in teams as indicated.
 
 # Purpose
 
-This is the first WC. It familiarizes you with both the process that future WCs will follow and the kind of thinking that will be required for them.
+This is the first WC. It familiarizes you with the process that future WCs will follow.
 
 # Background
 
 To attempt and submit the task you will need
-- familiarity with high school mathematics
-- a problem solving and logical approach.
+- familiarity with python programming
+- familiarity with `pytest`
 - comfort with GitHub and LaTeX
 
 # Grading
 
-Grading is on attempt. We trust that you are doing the necessary work and award you full marks for your submission. To verify, one or more teams will be selected at random each week for a viva on their submission. If any of the members is unable to explain the submission or all members do not appear for the viva, the team will be considered unreliable. Unreliable teams will be awarded a 0 in the corresponding WC as well as all WC's since their last viva.
+Grading is done automatically by GitHub. It is recommended that you run `pytest test.py` locally and resolve out any issues before `push`ing to your repository.
 
 # Task
 
-The task for this WC is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file. Make sure to include any supporting files needed for successful compilation. The same file at the time of the submission deadline will be taken to be your submission.
+The task for this WC is explained in the accompanying prompt which is to be compiled in LaTeX. Your score as shown on GitHub at the time of the deadline will be your score in this WC.
 
 # Deadline and discussion
 
