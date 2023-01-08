@@ -2,7 +2,7 @@
 # CS 412 Algorithms: Design and Analysis, Spring 2023
 ***
 
-Weekly challenges (WC) invite you to critically engage with the topics covered up to that week. They may take on a variety of formats and be available and attempted through diverse platforms as the semester progresses. They may be attempted individually or in teams as indicated.
+Each Weekly Challenge (WC) invites you to critically engage with the topics covered up to that week. WCs may take on a variety of formats and be available and attempted through diverse platforms as the semester progresses. They may be attempted individually or in teams as indicated.
 
 # Purpose
 
@@ -17,7 +17,7 @@ To attempt and submit the task you will need
 
 # Grading
 
-Grading is done automatically by GitHub. It is recommended that you run `pytest test.py` locally and resolve out any issues before `push`ing to your repository.
+Grading is done automatically by GitHub. It is recommended that you run `pytest test.py` locally and resolve any issues before `push`ing to your repository.
 
 # Task
 
