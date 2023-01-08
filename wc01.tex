@@ -22,7 +22,7 @@
 Our EE friends developed a communicator that sends signals in chunks of $N$ bits. Turns out the device randomly flips one bit in every chunk and so the intended message is not received, which is a problem. They have come to us for a solution. We would like to think about the best protocol so that we can decode any message from an erroneous chunk transmitted from this device.
 
   \begin{parts}
-  \part What is the maximum number $n$ as a fixed size of binary messages which can be sent through chunks of $N$ bits and will be decoded correctly?
+  \part What is the maximum number $n$ as a fixed size of binary messages which can be sent as a chunk of $N$ bits through such a device and can be decoded correctly as per a certain protocol?
   \end{parts}
   
 As an example, one protocol could be to concatenate the message thrice so that it can be decoded by identifying which one of the three copies has the faulty bit. However, this requires sending $N=3n$ bits which is too big.
