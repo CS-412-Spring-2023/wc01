@@ -1,4 +1,4 @@
-# Weekly Challenge 01: Comparison
+# Weekly Challenge 01: Hello World!
 # CS 412 Algorithms: Design and Analysis, Spring 2023
 ***
 
